@@ -902,7 +902,7 @@
                               href: "https://yumilive.pages.dev",
                               className:
                                 "bg-zinc-300 py-1 px-4 rounded-sm text-zinc-600",
-                              children: "BUY $ASU (CA) :)",
+                              children: "BUY $YUMI :)",
                             }),
                           /*   (0, s.jsx)(r.default, {
                               href: "https://t.me/yumivirtuals",
